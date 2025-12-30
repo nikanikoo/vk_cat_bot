@@ -19,7 +19,7 @@ The user bot works through LongPoll, receives messages in authorized chats, and 
 ## ⚙️ Installation & Setup
 ##### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/vk-cat-bot.git
+git clone https://github.com/nikanikoo/vk-cat-bot.git
 cd vk-cat-bot
 ```
 ##### 2. Install dependencies
