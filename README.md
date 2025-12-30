@@ -25,7 +25,7 @@ pip install vk_api requests
 ##### 3. Configuration
 Open **main.py** and set:
 ```python
-USER_TOKEN = "YOUR_VK_TOKEN" (we get the token here - https://vkhost.github.io/)
+USER_TOKEN = "YOUR_VK_TOKEN" ## (we get the token here - https://vkhost.github.io/)
 ALLOWED_CHATS = [2000000009]
 ```
 - USER_TOKEN — VK user access token
