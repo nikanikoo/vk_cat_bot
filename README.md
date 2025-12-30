@@ -11,6 +11,10 @@ The user bot works through LongPoll, receives messages in authorized chats, and 
 - 🔒 Restricts access by chat / user ID
 
 ## 🛠 Technologies Used
+- Python 3.8+
+- vk_api
+- requests
+- TheCatAPI
 
 ## ⚙️ Installation & Setup
 ##### 1. Clone the repository
